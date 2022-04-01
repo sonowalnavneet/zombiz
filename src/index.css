@@ -1,0 +1,343 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#abc{
+  background-color: black;
+  color: burlywood;
+  font-size: 50px;
+  font-family: 'Bradley Hand ITC';
+}
+
+#aaf{
+  color: grey;
+  
+}
+
+
+#swift{
+  color: black;
+  font-family: sans-serif ;
+  font-size: large;
+}
+
+#tclr{
+  color: grey;
+}
+
+#force{
+  font-family: sans-serif;
+}
+
+#home{
+  padding-left: 870px;
+  
+}
+
+#navbar{
+  padding-bottom: 30px;
+  padding-top: 30px;
+  font-size: 15px;
+  position: fixed;
+  overflow: hidden;
+  width: 100%;
+}
+
+
+#cntnr{
+  padding-top: 90px;
+  padding-left: 90px;
+  font-family: 'Playfair Display',serif;
+  font-size: 30px;
+}
+
+#imga{
+  text-align: right;
+  padding-left: 790px;
+  border: 2px lightgrey solid;  
+}
+#services{
+  padding-top: 80px;
+  background-color: white;
+}
+
+#serviceshd{
+  text-align: center;
+}
+
+#srto{
+  text-align: center;
+  font-family: 'Playfair Display',serif;
+}
+
+#srtoo{
+  text-align: center;
+  color: grey;
+}
+
+#project{
+  padding-top: 95px;
+  
+}
+
+#projectto{
+  color: grey;
+  padding-left: 100px;
+}
+
+#projecthre{
+  font-family: 'Playfair Display',serif;
+  padding-left: 100px;
+}
+
+#expertone{
+  padding-top: 100px;
+  background-color: rgba(115,112,216,1);
+}
+
+#expertwo{
+  padding-left: 100px;
+  font-family: 'Playfair Display,serif';
+}
+
+#experthre{
+  padding-left: 100px;
+  
+}
+
+#prjt1{
+  padding-left: 150px;
+}
+#prjt2{
+  padding-bottom: 310px;
+  padding-left: 8px;
+}
+
+#prjt3{
+  padding-bottom: 310px;
+  padding-left: 8px;
+  
+}
+
+#prjt4{
+  padding-left: 600px;
+  
+}
+
+#prjt5{
+  padding-left: 8px;
+}
+
+#pricing1{
+  padding-top: 100px;
+  bottom: -100px;
+}
+
+#fontname1{
+  font-family: "Playfair Display',serif";
+  
+}
+
+#fontname2{
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: grey;
+}
+
+#headprice{
+  text-align: center;
+  color: white;
+}
+
+#cardbody1{
+  background-color: white;
+}
+
+#headprice1{
+  color: grey;
+  text-align: center;
+}
+
+#card1{
+  left: 100px;
+  padding-left: 00px;
+}
+
+#card2{
+  
+  left: 430px;
+  bottom: 485px;
+ 
+}
+#card3{
+  padding-left: 00px;
+  left: 760px;
+  bottom: 970px;
+}
+
+#card4{
+  padding-left: 00px;
+  left: 1090px;
+  bottom: 1455px;
+}
+
+#roundedimg{
+  border: 2px blue solid;
+  height: 130px;
+}
+
+#clientpartdiv{
+  background-color: aliceblue;
+}
+
+#clientdiv1{
+  padding-top: 130px;
+  font-family: "Playfair Display',serif";
+  color: #44454f;
+}
+
+#colorparagraph{
+  color: grey;
+  font-size: 25px;
+}
+
+#colorparagraph1{
+  color:rgba(115,112,216,1) ;
+  font-size: 25px;
+}
+
+#division{
+  background-color: rgba(115,112,216,1);
+}
+
+#colorparagraph3{
+  font-size: 18px;
+  color: grey;
+}
+#division{
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+#imgg1{
+  padding-left: 300px;
+}
+
+#imgg2{
+  padding-left: 50px;
+}
+
+#imgg3{
+  padding-left: 50px;
+}
+
+#imgg4{
+  padding-left: 50px;
+}
+
+#imgg5{
+  padding-left: 50px;
+}
+
+#newsparagraph{
+  color: grey;
+}
+
+#newsparagraph1{
+  font-style: italic;
+  color: black;
+  font-size: 15px;
+}
+
+#newsdivision{
+  padding-left: 50px;
+  font-family: 'Playfair Display',serif;
+}
+
+#cntr2{
+  padding-left: 90px;
+  color: grey;
+}
+
+#divconsultone{
+  background-image: url(newyork.jpg);
+  background-size: cover;
+  height: 500px;
+  width: 100%;
+  padding-top: 310px;
+  padding-left: 100px;
+  padding-bottom: 600px;
+  
+}
+
+#button1{
+  margin-left: 50px;
+}
+
+#dodivision{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#navlogodiv{
+  margin-left: 5px;
+}
+
+
+#divisisonus{
+  padding-bottom: 60px;
+}
+
+
+
+#count1{
+  vertical-align: middle;
+  padding-left: 250px;
+}
+
+
+.divisiontics:before {
+  position: absolute;
+  content: '';
+  
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+#divisiontics{
+  background-image: url(table.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background: rgba(115,112,216,8);
+    
+    width: 100%;
+    padding-top: 98px;
+    padding-right: 0px;
+    padding-bottom: 81px;
+    padding-left: 0px;
+}
+
+
+#expertcard{
+  color: black;
+  
+}
+
+
+#section1{
+        height: 60px;
+}
+
+#sectionimg{
+  padding-top: 20px;
+}

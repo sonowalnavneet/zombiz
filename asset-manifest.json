@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/zombiz/static/css/main.d620dd54.css",
+    "main.js": "/zombiz/static/js/main.4ea0de08.js",
+    "static/media/newyork.jpg": "/zombiz/static/media/newyork.dec9f645162e6daad2bc.jpg",
+    "static/media/banner1.jpg": "/zombiz/static/media/banner1.745d76d76681d7716498.jpg",
+    "static/media/project1.jpg": "/zombiz/static/media/project1.d6d8cfa929435611c1c6.jpg",
+    "static/media/aboutimg.jpg": "/zombiz/static/media/aboutimg.d72a3aa01578ca1425f9.jpg",
+    "static/media/table.jpg": "/zombiz/static/media/table.6e2a37756d8d633184fe.jpg",
+    "static/media/card2.jpg": "/zombiz/static/media/card2.18c33cba6af5fadc660c.jpg",
+    "static/media/card3.jpg": "/zombiz/static/media/card3.5235bfd607189c16847f.jpg",
+    "index.html": "/zombiz/index.html",
+    "main.d620dd54.css.map": "/zombiz/static/css/main.d620dd54.css.map",
+    "main.4ea0de08.js.map": "/zombiz/static/js/main.4ea0de08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d620dd54.css",
+    "static/js/main.4ea0de08.js"
+  ]
+}
